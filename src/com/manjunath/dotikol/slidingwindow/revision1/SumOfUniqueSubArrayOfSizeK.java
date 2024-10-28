@@ -1,11 +1,9 @@
 package com.manjunath.dotikol.slidingwindow.revision1;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
-class Solution {
+class SumOfUniqueSubArrayOfSizeK {
 
     public static void main(String[] args) {
         int[] nums = {1,4,2};
