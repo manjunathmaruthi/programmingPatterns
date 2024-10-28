@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Java17Features/Java17Features.iml" filepath="$PROJECT_DIR$/../Java17Features/Java17Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Java8Features/Java8Features.iml" filepath="$PROJECT_DIR$/../Java8Features/Java8Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Java8SteamAPIsLearning/Java8SteamAPIsLearning.iml" filepath="$PROJECT_DIR$/../Java8SteamAPIsLearning/Java8SteamAPIsLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingPatterns.iml" filepath="$PROJECT_DIR$/ProgrammingPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../clean-code-master/clean-code.iml" filepath="$PROJECT_DIR$/../clean-code-master/clean-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eventtracker/eventtracker.iml" filepath="$PROJECT_DIR$/../eventtracker/eventtracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../low-level-design/low-level-design.iml" filepath="$PROJECT_DIR$/../low-level-design/low-level-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../phonexercise/phonexercise.iml" filepath="$PROJECT_DIR$/../phonexercise/phonexercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../repo/springboot_practise_01/springboot_practise_01.iml" filepath="$PROJECT_DIR$/../repo/springboot_practise_01/springboot_practise_01.iml" />
+    </modules>
+  </component>
+</project>
